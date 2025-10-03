@@ -1,9 +1,11 @@
 # Moodboard
 
-Este documento reúne referencias visuales, conceptuales y gráficas que guiarán el desarrollo de la identidad.
+This document gathers visual, conceptual, and graphic references that will guide the identity development.
 
-## Palabras clave
-- [Ejemplo: Moderno, Minimalista, Cercano]
+## Keywords
 
-## Referencias
-- Imágenes, paletas de colores y estilos visuales a incluir en `/assets/mockups` o enlaces externos.
+-   [Example: Modern, Minimalist, Approachable]
+
+## References
+
+-   Images, color palettes, and visual styles to be included in `/assets/mockups` or external links.

@@ -1,10 +1,11 @@
-# Roadmap del Proyecto
+# Project Roadmap
 
-## Fases
-1. **Investigación y Briefing** – [Fecha]
-2. **Moodboard y Exploración Creativa** – [Fecha]
-3. **Diseño del Logotipo y Elementos Visuales** – [Fecha]
-4. **Definición de Paleta y Tipografía** – [Fecha]
-5. **Manual de Marca** – [Fecha]
-6. **Aplicaciones y Mockups** – [Fecha]
-7. **Entrega Final** – [Fecha]
+## Phases
+
+1. **Research and Briefing** – [Date]
+2. **Moodboard and Creative Exploration** – [Date]
+3. **Logo and Visual Elements Design** – [Date]
+4. **Color Palette and Typography Definition** – [Date]
+5. **Brand Manual** – [Date]
+6. **Applications and Mockups** – [Date]
+7. **Final Delivery** – [Date]

@@ -1,17 +1,20 @@
-# Briefing del Proyecto
+# Project Briefing
 
-## Información General
-- **Cliente:** [Nombre del cliente]
-- **Sector:** [Industria]
-- **Fecha de inicio:** [dd/mm/aaaa]
+## General Information
 
-## Objetivos de la marca
-- [ ] Definir misión, visión y valores.
-- [ ] Identificar el público objetivo.
-- [ ] Establecer los objetivos de comunicación.
+-   **Client:** django commons
+-   **Sector:** software development c
+-   **Start date:** [04/10/2025]
 
-## Entregables esperados
-- Logotipo principal y versiones secundarias.
-- Paleta cromática y tipografías.
-- Manual de uso de la marca.
-- Mockups de aplicaciones.
+## Brand Objectives
+
+-   [ ] Define mission, vision, and values.
+-   [ ] Identify target audience.
+-   [ ] Establish communication objectives.
+
+## Expected Deliverables
+
+-   Main logo and secondary versions.
+-   Color palette and typography.
+-   Brand usage manual.
+-   Application mockups.

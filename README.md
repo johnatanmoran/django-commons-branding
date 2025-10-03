@@ -1,34 +1,36 @@
-# Proyecto de Branding
+# Branding Project for django Commons
 
-Este repositorio contiene toda la documentación, recursos gráficos y lineamientos para el desarrollo del branding del proyecto **[Nombre del Cliente/Marca]**.
+This repository contains all documentation, graphic resources, and guidelines for the branding development of the **[django commons]** project.
 
-## Contenido
+## Content
 
--   `docs/` → Documentación del proyecto (briefing, moodboard, manual de marca, roadmap).
--   `assets/` → Recursos gráficos (logos, colores, tipografía, mockups).
--   `presentations/` → Presentaciones para el cliente.
--   `templates/` → Plantillas gráficas para aplicaciones de la marca.
--   `changelog.md` → Registro de cambios.
+-   `docs/` → Project documentation (briefing, moodboard, brand manual, roadmap).
+-   `assets/` → Graphic resources (logos, colors, typography, mockups).
+-   `presentations/` → Client presentations.
+-   `templates/` → Graphic templates for brand applications.
+-   `changelog.md` → Change log.
 
-## Objetivo
+## Objective
 
-Desarrollar una identidad visual sólida, consistente y adaptable, que comunique los valores y objetivos de la marca.
+Develop a solid, consistent, and adaptable visual identity that communicates the brand's values and objectives.
 
-## Colaboración
+## Collaboration
 
--   Usar ramas (`feature/`, `design/`, `docs/`) para cambios.
--   Documentar todo en el `changelog.md`.
--   Mantener consistencia en nombres de archivos y carpetas.
+-   Use branches (`feature/`, `design/`, `docs/`) for changes.
+-   Document everything in the `changelog.md`.
+-   Maintain consistency in file and folder names.
 
-## Creación de la Identidad Visual
+## Creation of Visual Identity
 
--   **Moodboard**: Elaborar un moodboard que represente la esencia y valores de la marca.
--   **Logotipo**: Diseñar un logotipo único y memorable.
--   **Colores**: Seleccionar una paleta de colores que refleje la identidad y los objetivos de la marca.
--   **Tipografía**: Elegir tipografías que complementen la identidad y sean legibles en diferentes contextos.
+-   **Moodboard**: Create a moodboard that represents the essence and values of the brand.
+-   **Logo**: Design a unique and memorable logo.
+-   **Colors**: Select a color palette that reflects the identity and objectives of the brand.
+-   **Typography**: Choose typefaces that complement the identity and are legible in different contexts.
+-   **Icons**: Create a set of icons that represent the brand and its services.
+-   **Mockups**: Develop wireframes and mockups to visualize the brand's user experience.
 
-## Créditos del Proyecto
+## Project Credits
 
--   **Desarrollador**: @johnatanmoran e @ichikstudio
--   **Cliente**: [Nombre del Cliente]
--   **Colaboradores**: [Nombres de los Colaboradores]
+-   **Developer**: @johnatanmoran and @ichikstudio
+-   **Client**: django commons
+-   **Collaborators**: [Collaborator Names]

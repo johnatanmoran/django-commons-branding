@@ -1,16 +1,16 @@
-# Manual de Marca (Brand Guidelines)
+# Brand Guidelines
 
-## Logotipo
-- Versiones permitidas
-- Usos correctos e incorrectos
+## Logo
+- Allowed versions
+- Correct and incorrect uses
 
-## Colores
-- Paleta principal y secundaria
-- Códigos HEX, RGB, CMYK, Pantone
+## Colors
+- Primary and secondary palette
+- HEX, RGB, CMYK, Pantone codes
 
-## Tipografía
-- Fuentes principales y secundarias
-- Jerarquías tipográficas
+## Typography
+- Primary and secondary fonts
+- Typographic hierarchies
 
-## Aplicaciones
-- Uso en papelería, digital, redes sociales, etc.
+## Applications
+- Use in stationery, digital, social media, etc.

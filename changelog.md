@@ -1,7 +1,9 @@
-# Changelog del Proyecto de Branding
+# Branding Project Changelog
 
-## Formato
-- `dd/mm/aaaa` – [Autor] – Descripción del cambio
+## Format
 
-## Historial
-- [ ] 03/10/2025 – Creación de la base del repositorio y estructura inicial.
+-   `dd/mm/yyyy` – [Author] – Change description
+
+## History
+
+-   03/10/2025 - [@johnatanmoran] – Creation of repository base and initial structure.
